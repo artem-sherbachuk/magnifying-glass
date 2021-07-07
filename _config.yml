@@ -37,23 +37,23 @@ features                                  :
 
   - title                                 : Scan Text
     description                           : recognize text on the camera and turn it into a digital version with regulated font size
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : font
     
   - title                                 : Regulated Flashlight
     description                           : regulate flashlight intensity, from light to extra bright. use reading light
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : lightbulb-o
 
   - title                                 : Magnifier
     description                           : 30X zoom with swipe up/down gestures, live bulge/magnifier edit
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : search
 
   - title                                 : Live Reading Filters 
     description                           : Use extra reading filters live to increase clearness and quality of view
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : camera
 
   - title                                 : App Design Change
     description                           : change app design on the fly, select app UI color and app icon that will more like to you
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : magic
   
   - title                                 : Simple Usability 
     description                           : very easy to use, simple UI
