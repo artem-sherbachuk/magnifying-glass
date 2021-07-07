@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Regulated Flashlight
     description                           : regulate flashlight intensity, from light to extra bright. use reading light
-    fontawesome_icon_name                 : lightbulb-o
+    fontawesome_icon_name                 : lightbulb
 
   - title                                 : Magnifier
     description                           : 30X zoom with swipe up/down gestures, live bulge/magnifier edit
